@@ -1,5 +1,5 @@
 
-Apple's official documentation can be found here, https://github.com/apple/turicreate. They give a number of entry level examples of to fit models using Turi Create.
+Apple's official documentation can be found here, https://apple.github.io/turicreate/docs/userguide/. They give a number of entry level examples of to fit models using Turi Create.
 
 Messing around with the macOS inbuilt Python environment can create some really big headaches. You probably want work with another installation. Turi Create supports Python 3.6 and 2.7, you can check which version you are using with `python -V`. It is recommended to set up virtual environment for each python project. This makes it easier to avoid conflicts between installed packages.
 
