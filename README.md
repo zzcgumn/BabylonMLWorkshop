@@ -4,3 +4,5 @@ Background Material for Our On Device Machine Learning Workshop.
 Installing [Turi Create](./TuriCreate/Setup.md)
 
 Minimal Demo of [CreateML](./CreateML/Setup.md)
+
+Iris Example in Swift for TensorFlow [Iris](./SwiftForTensorFlow/Iris/README.md)
