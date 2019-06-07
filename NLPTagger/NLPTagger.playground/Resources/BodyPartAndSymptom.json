@@ -1,0 +1,22 @@
+[
+  {
+   "tokens": ["I", "have", "a", "headache"],
+   "labels": ["NONE", "NONE", "NONE", "SYMPTOM"]
+  },
+  {
+   "tokens": ["My", "left", "knee", "is", "swollen", "and", "sore"],
+   "labels": ["NONE", "NONE", "BODYPART", "NONE", "SYMPTOM", "NONE", "SYMPTOM"]
+  },
+  {
+   "tokens": ["I", "have", "an", "upset", "tummy"],
+   "labels": ["NONE", "NONE", "NONE", "NONE", "SYMPTOM"]
+  },
+  {
+   "tokens": ["My", "knee", "is", "stiff"],
+   "labels": ["NONE", "BODYPART", "NONE", "SYMPTOM"]
+  },
+  {
+   "tokens": ["I", "have", "a", "fever", "and", "nauseous"],
+   "labels": ["NONE", "NONE", "NONE", "SYMPTOM", "NONE", "SYMPTOM"]
+  }
+]
